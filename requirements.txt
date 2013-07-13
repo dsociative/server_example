@@ -1,1 +1,3 @@
-git+https://github.com/dsociative/socket_server2.git
+git+https://github.com/dsociative/socket_server2.git@refactoring
+git+https://github.com/dsociative/ztest.git
+git+https://github.com/dsociative/class_collector.git
